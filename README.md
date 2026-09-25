@@ -1,6 +1,12 @@
-# App Hermès Core — Espace Client Multi-Agents
+# ⚠️ [OBSOLÈTE / DÉPRÉCIÉ] App Hermès Core
 
-**App Hermès Core** est l'application cliente officielle de l'écosystème Hermès Core. Elle constitue un **canal de communication natif** (au même titre que Telegram ou WhatsApp) permettant aux entreprises clientes (TPE & PME) de dialoguer et de piloter en direct leurs agents IA spécialisés.
+> **IMPORTANT** : Ce dossier est un **reliquat du prototype initial d'août/septembre 2026**.
+> Il est officiellement **remplacé par le module UI Client souverain `apps/ui-client`** situé dans le dépôt `orso-core`.
+> Toute la production s'appuie désormais sur `https://app.orso-agents.fr` orchestrée via Docker Ingress et Supabase IAM. Ne plus utiliser ce prototype.
+
+---
+
+# App Hermès Core — Espace Client Multi-Agents (Archive)
 
 ---
 
